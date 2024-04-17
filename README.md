@@ -19,7 +19,7 @@
         <p>Email: revathi130903@gmail.com</p>
     </section>
     <footer>
-        <p>&copy; 2023 Revathi</p>
+        <p>&copy; 2024 Revathi</p>
     </footer>
-</body>
-</html
+    </body>
+</html>
